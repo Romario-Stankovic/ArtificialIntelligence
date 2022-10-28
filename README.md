@@ -1,4 +1,4 @@
-<h1 align="center">PROJECT_NAME</h1>
+<h1 align="center">Artificial Intelligence</h1>
 
 This project was given as a final exam for "Artificial Intelligence" at Singidunum University. The goal of this course was to teach students about how AI works and how to prepare data for AI training.
 
