@@ -1,8 +1,8 @@
 <h1 align="center">Artificial Intelligence</h1>
 
-This project was given as a final exam for "Artificial Intelligence" at Singidunum University. The goal of this course was to teach students about how AI works and how to prepare data for AI training.
+"Artificial Intelligence" is a final exam project from the "Artificial Intelligence" course at Singidunum University. The course was designed to teach students the basics of data processing and usage of machine learning algorithms.
 
-The project required that each student selects a dataset from one of the given sources, do exploratory data analysis, prepare the data for AI, and then train a model on the data. The model should be able to predict the target variable.
+The project required that each student selects a dataset from a given source and do EDA (Exploratory Data Analysis), prepare the data for fitting the models and predict the target value. We were given a couple of different models and we should test each one to determine the best fit for our dataset.
 
 ## 🧰 Languages & Tools
 
