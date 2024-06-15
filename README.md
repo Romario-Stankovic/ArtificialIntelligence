@@ -1,6 +1,6 @@
-<h1 align="center">Artificial Intelligence</h1>
+<h1 align="center">Pumpkin Seed Classification</h1>
 
-"Artificial Intelligence" is a final exam project from the "Artificial Intelligence" course at Singidunum University. The course was designed to teach students the basics of data processing and usage of machine learning algorithms.
+"Pumpkin Seed Classification" is a final exam project from the "Artificial Intelligence" course at Singidunum University. The course was designed to teach students the basics of data processing and usage of machine learning algorithms.
 
 The project required that each student selects a dataset from a given source and do EDA (Exploratory Data Analysis), prepare the data for fitting the models and predict the target value. We were given a couple of different models and we should test each one to determine the best fit for our dataset.
 
